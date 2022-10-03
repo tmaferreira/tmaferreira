@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Tânia.
 - 👀 I’m interested in Data Science and Machine Learning fields.
-- :mortar_board: I’m currently learning about Data Science.
+- :mortar_board: I’m currently learning about Data Science and Data Engineering.
 
 <!---
 tmaferreira/tmaferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
